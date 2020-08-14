@@ -27,6 +27,8 @@ I'm a Student, Learner, Machine learning & Deep learning Enthusiast!
 <a href="https://www.linkedin.com/in/raviteja-kalavena-548645158/">
   <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<br />
+
 [<img align="left" alt="adi1090x | Email" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
 [<img align="left" alt="adi1090x | Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
 [<img align="left" alt="adi1090x | Instagram" width="22px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />][instagram]
