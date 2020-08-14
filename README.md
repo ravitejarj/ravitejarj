@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/RavitejaRJ25
 
 
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  
 ### Hey 👋🏽,, I'm Ravieja 👋
 
 Hi, I'm Raviteja, a Deep learning Engineer 🚀 from India, currently, I'm a Research Intern AI 🙍🏽‍♂️ Machine learning & Deep learning Enthusiast!
