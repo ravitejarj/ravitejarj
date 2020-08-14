@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 ### Hey 👋🏽,, I'm Ravieja 👋
 
 Hi, I'm Raviteja, a Deep learning Engineer 🚀 from India, currently, I'm a Research Intern AI 🙍🏽‍♂️ Machine learning & Deep learning Enthusiast!
-- 🔭 I’m currently working on [Arnekt][Arnekt Artificial Intelligence]
+- 🔭 I’m currently Working at [Arnekt][Arnekt Artificial Intelligence]
 - 🌱 I’m currently learning `Machine learning` and `Deep learning`
 - 💬 Ask me about anything, I am happy to help;
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love 📸 | 🎨 | 🐶 | 👨‍💻
+- 📫 How to reach me: ravitejarj25@gmail.com
+- ⚡ Fun fact: I love 📸 | 🐶 | 👨‍💻
 
 ### Connect with me:
 
