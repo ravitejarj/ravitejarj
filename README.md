@@ -6,10 +6,11 @@ Here are some ideas to get you started:
 
 <!-- List Of Websites-->
 [Arnekt Artificial Intelligence]: https://github.com/arnekt-ai
-[twitter]: https://twitter.com/RavitejaRJ25
+[medium]: https://medium.com/@ravitejarj25
 [github]: https://github.com/ravitejarj
-[instagram]: https://www.instagram.com/ravitejarj25
 [gmail]: mailto:ravitejarj25@gmailc.om
+[instagram]: https://www.instagram.com/ravitejarj25
+[twitter]: https://twitter.com/RavitejaRJ25
 
 
 ### Hi there, I'm Ravieja 👋
@@ -43,6 +44,14 @@ I'm a Student, Learner, Machine learning & Deep learning Enthusiast!
 <br />
 
 ---
+### 📖 My Blogs on ML & DL:
+
+- [Indian_IDD]: https://medium.com/analytics-vidhya/indian-driving-dataset-instance-segmentation-with-mask-r-cnn-and-tensorflow-b03617156d44
+- [PUBG]: https://medium.com/@ravitejarj25/pubg-finish-placement-prediction-using-lgb-light-gbm-2fd291decc9d
+- [Shadow_removal]: https://medium.com/arnekt-ai/shadow-removal-with-open-cv-71e030eadaf5
+
+---
+
 ### 📖 Latest in Arnekt:
 
 - [Face anlysis]()
