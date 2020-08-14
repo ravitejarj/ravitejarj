@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hey 👋🏽,, I'm Ravieja 👋
 
-I'm a Research Intern at Arnekt, Learner, Machine learning & Deep learning Enthusiast!
+Hi, I'm Raviteja, a Deep learning Engineer 🚀 from India, currently, I'm a Research Intern AI 🙍🏽‍♂️ Machine learning & Deep learning Enthusiast!
 - 🔭 I’m currently working on [Arnekt][Arnekt Artificial Intelligence]
 - 🌱 I’m currently learning `Machine learning` and `Deep learning`
 - 🥅 2020 Goals: Contribute more to Open Source projects
