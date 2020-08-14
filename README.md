@@ -34,10 +34,6 @@ I'm a Student, Learner, Machine learning & Deep learning Enthusiast!
 
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/python.svg" />](https://www.google.com/search?&q=Python)
 
-[<img align="left" alt="Jupyter notebook" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AJupyter_logo.svg&psig=AOvVaw3f3QD72khlducZrrO0T9XY&ust=1597480908541000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCti6OmmusCFQAAAAAdAAAAABAD" />](https://www.google.com/search?&q=Jupyter notebook)
-
-
-
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://www.google.com/search?&q=Git)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://www.google.com/search?&q=Github)
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://www.google.com/search?&q=command+line+interface)
