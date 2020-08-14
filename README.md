@@ -12,11 +12,6 @@ Here are some ideas to get you started:
 [instagram]: https://www.instagram.com/ravitejarj25
 [gmail]: mailto:ravitejarj25@gmailc.om
 
-<p align="center">
-  <img alt="adi1090x's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adi1090x&show_icons=true&include_all_commits=true&hide_border=true" />
-<!--  <img alt="profile pic" width="195px" src="https://avatars2.githubusercontent.com/u/26059688?s=460&u=d41b000a62eab50d000c3da604d151cec27bd850&v=4" />  -->
-<!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=adi1090x&hide=ruby,perl&hide_border=true" />  -->
-</p>
 
 ### Hi there, I'm Ravieja 👋
 
