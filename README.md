@@ -6,9 +6,10 @@ Here are some ideas to get you started:
 
 <!-- List Of Websites-->
 [Arnekt Artificial Intelligence]: https://github.com/arnekt-ai
+[linkedin]: https://www.linkedin.com/in/raviteja-kalavena-548645158/
+[gmail]: mailto:ravitejarj25@gmailc.om
 [medium]: https://medium.com/@ravitejarj25
 [github]: https://github.com/ravitejarj
-[gmail]: mailto:ravitejarj25@gmailc.om
 [instagram]: https://www.instagram.com/ravitejarj25
 [twitter]: https://twitter.com/RavitejaRJ25
 
@@ -23,10 +24,17 @@ I'm a Student, Learner, Machine learning & Deep learning Enthusiast!
 
 ### Connect with me:
 
-[<img align="left" alt="adi1090x | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
+[<img align="left" alt="adi1090x | Email" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][linkedin]
+<a href="https://www.linkedin.com/in/raviteja-kalavena-548645158/">
+  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+[<img align="left" alt="adi1090x | Email" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
 [<img align="left" alt="adi1090x | Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
 [<img align="left" alt="adi1090x | Instagram" width="22px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />][instagram]
-[<img align="left" alt="adi1090x | Email" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
+[<img align="left" alt="adi1090x | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
+
+
+
 
 <br />
 
@@ -48,7 +56,7 @@ I'm a Student, Learner, Machine learning & Deep learning Enthusiast!
 
 - [Instance Segmentation on Intel Indian_driving dataset](https://medium.com/analytics-vidhya/indian-driving-dataset-instance-segmentation-with-mask-r-cnn-and-tensorflow-b03617156d44)
 - [PUBG finish placement prediction](https://medium.com/@ravitejarj25/pubg-finish-placement-prediction-using-lgb-light-gbm-2fd291decc9d)
-- [Shadow_removal using Open cv](https://medium.com/arnekt-ai/shadow-removal-with-open-cv-71e030eadaf5)
+- [Shadow_removal using Open-CV](https://medium.com/arnekt-ai/shadow-removal-with-open-cv-71e030eadaf5)
 
 ---
 
