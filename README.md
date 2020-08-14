@@ -7,14 +7,14 @@ Here are some ideas to get you started:
 <!-- List Of Websites-->
 [Arnekt Artificial Intelligence]: https://github.com/arnekt-ai
 [linkedin]: https://www.linkedin.com/in/raviteja-kalavena-548645158/
-[gmail]: mailto:ravitejarj25@gmailc.om
+[gmail]: mailto:ravitejarj25@gmailc.com
 [medium]: https://medium.com/@ravitejarj25
 [github]: https://github.com/ravitejarj
 [instagram]: https://www.instagram.com/ravitejarj25
 [twitter]: https://twitter.com/RavitejaRJ25
 
 
-### Hi there, I'm Ravieja 👋
+### Hey 👋🏽,, I'm Ravieja 👋
 
 I'm a Student, Learner, Machine learning & Deep learning Enthusiast!
 - 🔭 I’m currently working on [Arnekt][Arnekt Artificial Intelligence]
@@ -25,16 +25,16 @@ I'm a Student, Learner, Machine learning & Deep learning Enthusiast!
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/raviteja-kalavena-548645158/">
-  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Raviteja's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<br>
+<a href="https://twitter.com/RavitejaRJ25">
+  <img align="left" alt="Raviteja | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.instagram.com/ravitejarj25">
+  <img align="left" alt="Raviteja's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
 [<img align="left" alt="adi1090x | Email" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
-[<img align="left" alt="adi1090x | Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
-[<img align="left" alt="adi1090x | Instagram" width="22px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />][instagram]
-[<img align="left" alt="adi1090x | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
-
-
 
 
 <br />
