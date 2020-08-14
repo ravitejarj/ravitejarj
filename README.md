@@ -24,7 +24,6 @@ I'm a Student, Learner, Machine learning & Deep learning Enthusiast!
 
 ### Connect with me:
 
-[<img align="left" alt="adi1090x | Email" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][linkedin]
 <a href="https://www.linkedin.com/in/raviteja-kalavena-548645158/">
   <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
