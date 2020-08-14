@@ -46,9 +46,9 @@ I'm a Student, Learner, Machine learning & Deep learning Enthusiast!
 ---
 ### 📖 My Blogs on ML & DL:
 
-- [Indian_IDD](https://medium.com/analytics-vidhya/indian-driving-dataset-instance-segmentation-with-mask-r-cnn-and-tensorflow-b03617156d44)
-- [PUBG](https://medium.com/@ravitejarj25/pubg-finish-placement-prediction-using-lgb-light-gbm-2fd291decc9d)
-- [Shadow_removal](https://medium.com/arnekt-ai/shadow-removal-with-open-cv-71e030eadaf5)
+- [Instance Segmentation on Intel Indian_driving dataset](https://medium.com/analytics-vidhya/indian-driving-dataset-instance-segmentation-with-mask-r-cnn-and-tensorflow-b03617156d44)
+- [PUBG finish placement prediction](https://medium.com/@ravitejarj25/pubg-finish-placement-prediction-using-lgb-light-gbm-2fd291decc9d)
+- [Shadow_removal using Open cv](https://medium.com/arnekt-ai/shadow-removal-with-open-cv-71e030eadaf5)
 
 ---
 
