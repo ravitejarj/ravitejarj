@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/RavitejaRJ25
 
   
-### Hey 👋🏽,, I'm Ravieja 👋
+### Hey 👋, I'm Ravieja 👋
 
 Hi, I'm Raviteja, a Deep learning Engineer 🚀 from India, currently, I'm a Research Intern AI 🙍🏽‍♂️ Machine learning & Deep learning Enthusiast!
 - 🔭 I’m currently Working at [Arnekt][Arnekt Artificial Intelligence]
@@ -61,6 +61,12 @@ Hi, I'm Raviteja, a Deep learning Engineer 🚀 from India, currently, I'm a Res
 <br />
 
 ---
+### 📖 Deployed Flask app in heroku:
+- [TGS Salt identification](https://identify-salt-in-image-app.herokuapp.com/)
+- [TGS Salt identification got top 12%](https://www.kaggle.com/c/tgs-salt-identification-challenge)
+
+
+
 ### 📖 My Blogs on ML & DL:
 
 - [Instance Segmentation on Intel Indian_driving dataset](https://medium.com/analytics-vidhya/indian-driving-dataset-instance-segmentation-with-mask-r-cnn-and-tensorflow-b03617156d44)
