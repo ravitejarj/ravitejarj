@@ -63,7 +63,7 @@ Hi, I'm Raviteja, a Deep learning Engineer 🚀 from India, currently, I'm a Res
 ---
 ### 📖 Deployed Flask app in heroku:
 - [TGS Salt identification heroku app](https://identify-salt-in-image-app.herokuapp.com/)
-- [TGS Salt identification got top 12%](https://www.kaggle.com/c/tgs-salt-identification-challenge)
+- [TGS Salt identification got top 12% in Kaggle](https://www.kaggle.com/c/tgs-salt-identification-challenge)
 
 
 
