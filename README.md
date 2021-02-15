@@ -19,10 +19,7 @@ Here are some ideas to get you started:
 Hi, I'm Raviteja, a Deep learning Engineer 🚀 from India, currently, I'm a Research Intern AI 🙍🏽‍♂️ Machine learning & Deep learning Enthusiast!
 - 🔭 I’m currently Working at [nCircle][Arnekt Artificial Intelligence]
 - 🌱 I’m currently learning `Machine learning` and `Deep learning`
-- 💬 Ask me about anything, I am happy to help;
-- 🥅 2020 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: ravitejarj25@gmail.com
-- ⚡ Fun fact: I love 📸 | 🐶 | 👨‍💻
 
 ### Connect with me:
 
@@ -72,13 +69,5 @@ Hi, I'm Raviteja, a Deep learning Engineer 🚀 from India, currently, I'm a Res
 - [Instance Segmentation on Intel Indian_driving dataset](https://medium.com/analytics-vidhya/indian-driving-dataset-instance-segmentation-with-mask-r-cnn-and-tensorflow-b03617156d44)
 - [PUBG finish placement prediction](https://medium.com/@ravitejarj25/pubg-finish-placement-prediction-using-lgb-light-gbm-2fd291decc9d)
 - [Shadow_removal using Open-CV](https://medium.com/arnekt-ai/shadow-removal-with-open-cv-71e030eadaf5)
-
----
-
-### 📖 Latest in Arnekt:
-
-- [Face anlysis]()
-- [Tongue analysis]()
-- [Logo detection](https://github.com/ravitejarj/Logo-detection)
 
 ---
