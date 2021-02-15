@@ -64,6 +64,5 @@ Hi, I'm Raviteja, a Deep learning Engineer 🚀 from India, currently, I'm a Dev
 
 - [Instance Segmentation on Intel Indian_driving dataset](https://medium.com/analytics-vidhya/indian-driving-dataset-instance-segmentation-with-mask-r-cnn-and-tensorflow-b03617156d44)
 - [PUBG finish placement prediction](https://medium.com/@ravitejarj25/pubg-finish-placement-prediction-using-lgb-light-gbm-2fd291decc9d)
-- [Shadow_removal using Open-CV](https://medium.com/arnekt-ai/shadow-removal-with-open-cv-71e030eadaf5)
 
 ---
