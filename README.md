@@ -10,13 +10,12 @@ Here are some ideas to get you started:
 [gmail]: mailto:ravitejarj25@gmailc.com
 [medium]: https://medium.com/@ravitejarj25
 [github]: https://github.com/ravitejarj
-[instagram]: https://www.instagram.com/ravitejarj25
 [twitter]: https://twitter.com/RavitejaRJ25
 
   
 ### Hey 👋, I'm Ravieja 👋
 
-Hi, I'm Raviteja, a Deep learning Engineer 🚀 from India, currently, I'm a Research Intern AI 🙍🏽‍♂️ Machine learning & Deep learning Enthusiast!
+Hi, I'm Raviteja, a Deep learning Engineer 🚀 from India, currently, I'm a Developer 🙍🏽‍♂️ Machine learning & Deep learning Enthusiast!
 - 🔭 I’m currently Working at [nCircle][Arnekt Artificial Intelligence]
 - 🌱 I’m currently learning `Machine learning` and `Deep learning`
 - 📫 How to reach me: ravitejarj25@gmail.com
@@ -28,9 +27,6 @@ Hi, I'm Raviteja, a Deep learning Engineer 🚀 from India, currently, I'm a Res
 </a>
 <a href="https://twitter.com/RavitejaRJ25">
   <img align="left" alt="Raviteja | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/ravitejarj25">
-  <img align="left" alt="Raviteja's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 [<img align="left" alt="adi1090x | Email" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
