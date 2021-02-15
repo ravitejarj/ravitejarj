@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 <!-- List Of Websites-->
-[Arnekt Artificial Intelligence]: https://github.com/arnekt-ai
+[Arnekt Artificial Intelligence]: https://github.com/ncircle
 [linkedin]: https://www.linkedin.com/in/raviteja-kalavena-548645158/
 [gmail]: mailto:ravitejarj25@gmailc.com
 [medium]: https://medium.com/@ravitejarj25
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Hey 👋, I'm Ravieja 👋
 
 Hi, I'm Raviteja, a Deep learning Engineer 🚀 from India, currently, I'm a Research Intern AI 🙍🏽‍♂️ Machine learning & Deep learning Enthusiast!
-- 🔭 I’m currently Working at [Arnekt][Arnekt Artificial Intelligence]
+- 🔭 I’m currently Working at [nCircle][Arnekt Artificial Intelligence]
 - 🌱 I’m currently learning `Machine learning` and `Deep learning`
 - 💬 Ask me about anything, I am happy to help;
 - 🥅 2020 Goals: Contribute more to Open Source projects
